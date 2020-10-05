@@ -145,4 +145,5 @@ while  play_again == 1:
 						break
 
 	print("\n")
+	print("end of the game! HURRAY")
 	play_again = replay()
